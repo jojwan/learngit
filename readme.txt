@@ -3,4 +3,4 @@ Git is free software distributed under the GPL.
 Git has a mutable index called stage.
 Git track test file add .
 My stupid boss still prefers SVN.
-reating a new branch is quick.
+reating a new branch is quick AND fix.
